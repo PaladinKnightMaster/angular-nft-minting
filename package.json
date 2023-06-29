@@ -1,0 +1,32 @@
+{
+  "name": "angular-nft-minting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaladinKnightMaster/angular-nft-minting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaladinKnightMaster/angular-nft-minting/issues"
+  },
+  "homepage": "https://github.com/PaladinKnightMaster/angular-nft-minting#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "chai": "^4.3.7",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.16.1",
+    "mocha": "^10.2.0",
+    "node-fetch": "^2.6.11"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "dotenv": "^16.3.1"
+  }
+}
